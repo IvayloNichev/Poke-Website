@@ -1,0 +1,14 @@
+
+.menu-item {
+    text-align: center;
+}
+.menu-item img {
+    width: 100%;
+    height: auto;
+}
+.menu-item h5, .menu-item p {
+    margin: 0;
+}
+.form-check-input{
+  background-color: black;
+}
